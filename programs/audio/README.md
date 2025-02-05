@@ -1,12 +1,14 @@
-Keystroke Dataset Collection Script
+# Keystroke Dataset Collection Script
 
 This script records audio of keystrokes while verifying password inputs against a predefined dataset. It is designed for research purposes, particularly in acoustic side-channel attacks and keystroke recognition.
+
 Features
-	•	Reads a list of passwords from a text file.
-	•	Records keystroke sounds while the user types a password.
-	•	Verifies if the input matches the expected password.
-	•	Saves the recorded keystrokes only when the correct password is entered.
-Setup Instructions
+	-	Reads a list of passwords from a text file.
+	-	Records keystroke sounds while the user types a password.
+	-	Verifies if the input matches the expected password.
+	-	Saves the recorded keystrokes only when the correct password is entered.
+
+## Setup Instructions
 1. Install Dependencies
 Ensure you have Python 3 installed, then install the required dependencies:
 pip install sounddevice numpy soundfile
