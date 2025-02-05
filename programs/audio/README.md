@@ -18,7 +18,9 @@ pip install sounddevice numpy soundfile
 Create a text file (passwords.txt) containing passwords, each on a new line:
 
 password1
+
 password2
+
 password3
 
 ### 3. Run the Script
