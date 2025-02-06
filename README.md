@@ -21,24 +21,24 @@ pip install numpy pandas scikit-learn matplotlib librosa torch torchvision sound
 ### **2. Collect Keystroke Audio Data**  
 Run the script to record keystroke audio and verify password input correctness:  
 ```sh
-python collect_keystroke_data.py
+python collect_keystroke.py
 ```
 Prepare a text file with passwords (one per line) and provide its path to the script.
 
 ### **3. Train Machine Learning Models**  
 Train baseline machine learning models (**GaussianNB, Logistic Regression, KNN, Random Forest**):  
 ```sh
-python train_baseline_models.py
+python model_comparison.ipynb
 ```
 
 ### **4. Compare Logistic Regression vs. CoAtNet**  
 Evaluate and compare **Logistic Regression (best traditional model) with CoAtNet**:  
 ```sh
-python compare_lr_coatnet.py
+python model_comparison.ipynb
 ```
 
 ### **5. View Results**  
-Accuracy reports and confusion matrix visualizations will be stored in the **results/** folder.
+Accuracy reports and confusion matrix visualizations end of the file python model_comparison.ipynb
 
 ---
 
