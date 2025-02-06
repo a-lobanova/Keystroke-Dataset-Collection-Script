@@ -2,7 +2,7 @@
 This repository contains the code implementation for the paper titled "Machine-learning-based adaptive keyboard sound masking against acoustic channel attacks".
 
 
-# **Machine Learning-Based Adaptive Keyboard Sound Masking against Acoustic Side-Channel Attacks**  
+# **ML-acoustic-attack-defense**  
 
 ## **Abstract**  
 Keyboard **acoustic side-channel attacks (ASCAs)** exploit sound leakage from typing to infer typed words with a certain level of accuracy. Researchers have improved these attacks using advanced **feature extraction** and **classification techniques**, including machine learning and deep learning. However, **defense mechanisms** have not kept pace with the increasing precision of these attacks.  
