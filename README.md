@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your GitHub project:  
-
----
 
 # **Machine Learning-Based Adaptive Keyboard Sound Masking against Acoustic Side-Channel Attacks**  
 
@@ -48,5 +45,3 @@ Accuracy reports and confusion matrix visualizations will be stored in the **res
 ## **Future Updates**  
 ✅ **GAN-based sound masking model** (Defense strategy)  
 ✅ **CoAtNet training & evaluation**  
-
-Would you like to add any author/contributor information to the README? 🚀
