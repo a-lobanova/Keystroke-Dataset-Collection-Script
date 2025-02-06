@@ -1,4 +1,7 @@
 
+This repository contains the code implementation for the paper titled "Machine-learning-based adaptive keyboard sound masking against acoustic channel attacks".
+
+
 # **Machine Learning-Based Adaptive Keyboard Sound Masking against Acoustic Side-Channel Attacks**  
 
 ## **Abstract**  
@@ -38,7 +41,7 @@ python model_comparison.ipynb
 ```
 
 ### **5. View Results**  
-Accuracy reports and confusion matrix visualizations end of the file python model_comparison.ipynb
+Accuracy reports and confusion matrix visualizations end of the file model_comparison.ipynb
 
 ---
 
